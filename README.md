@@ -40,25 +40,28 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Noten lesen** („Wie heisst die Note?“): Eine Note erscheint im Gitarren-Notensystem (Violinschlüssel mit kleiner 8), das Kind tippt den Namen. Alle Töne von der leeren tiefen E-Saite bis zum 12. Bund sind dabei, auch mit ♯ und ♭. Bei einer richtigen Antwort erklingt der Ton als Gitarrensaite.
 - **Griffbrett** („Wo liegt die Note?“): Die Note sehen und die Stelle auf dem Griffbrett antippen, oder einen Punkt auf dem Griffbrett sehen und den Namen tippen. Nach einem Fehler zeigt Suona alle richtigen Stellen.
 - **Arcade:** Endlos spielen, bis drei Plektren weg sind. Zur Wahl stehen fünf Spielarten: Notenname, Wo liegt sie?, Welcher Ton?, Note setzen (eine Note ins Notensystem tippen) und Gemischt. Die Töne kommen aus dem eigenen Lehrplan oder aus gewählten Saiten und Bünden, und das Tempo ist einstellbar (ohne Zeit, gemütlich, schnell). Jede Spielart hat ihren eigenen Rekord.
+- **Abenteuer:** eine Weltkarte vom Kinderzimmer bis ins Stadion mit acht Stationen. Jede Station bringt die nächsten Töne aus dem Lehrplan und hat fünf Level und einen Auftritt. Mit jeder Station wird die Zeit pro Ton knapper, und ein Publikums-Balken zeigt, wie gut es läuft. Eine neue Station öffnet sich, wenn die vorige geschafft ist und die Lehrperson die neuen Töne freigegeben hat.
+- **Shop und Aussehen:** Mit den Münzen gibt es Mützen, Kopfhörer, Brillen, Westen und neue Gitarren. Alles lässt sich vor dem Kauf anprobieren. Haut, Haare, Augen und Shirt sind gratis frei wählbar.
+- **Pedale:** Das Schild-Pedal wehrt einen falschen Ton ab, der Kapodaster hält die Zeit an, und das Stimmgerät streicht zwei falsche Antworten weg, je einmal pro Abenteuer-Level.
+- **Abzeichen** für geschaffte Stationen, viele richtige Töne und Übungstage in Folge.
 - **Belohnungen:** Münzen für jede richtige Antwort, mehr Münzen bei vielen richtigen in Folge, Sterne für jede Runde und eine Zählung der Übungstage in Folge. Ein Streak-Schutz rettet einen verpassten Tag. Pausen werden nie bestraft.
 - **Lernt mit:** Töne, die ein Kind oft verwechselt, kommen öfter dran.
 
 ### Für Lehrpersonen und Eltern (Lehrerbereich)
 - **Lehrerbereich** hinter einer kleinen Rechenaufgabe: das Schloss oben rechts auf dem Startbildschirm.
 - **Lehrpläne:** Die Reihenfolge, in der die Töne gelernt werden. Eingebaut ist die Reihenfolge aus „guitarTALKS“. Eigene Lehrpläne, etwa nach einer anderen Gitarrenschule, legst du selbst an.
-- **Pro Kind:** Lehrplan wählen, festlegen, wie weit das Kind ist, und sehen, welche Töne schon sitzen, getrennt für Notenlesen und Griffbrett.
+- **Pro Kind:** Lehrplan wählen, festlegen, wie weit das Kind ist (damit öffnen sich auch die Stationen im Abenteuer), und sehen, welche Töne schon sitzen, getrennt für Notenlesen und Griffbrett.
 - **Arcade-Vorlagen,** zum Beispiel „1. Lage“, „Nur g-Saite“ oder eigene wie „Hausaufgabe Mia“.
 - **Einstellungen:** Notennamen deutsch (H, B, Fis) oder international (B, B♭, F♯), Vorzeichen als ♯, ♭ oder beides, welche Saite auf dem Griffbrett oben liegt, Ton an oder aus, Sprache.
 - **Mikrofon-Test:** prüft, ob das Gerät die Gitarre gut hört. Das ist die Grundlage für den kommenden Modus „Echt spielen“.
 
 ### Kommt bald
-- **Abenteuer:** eine Weltkarte vom Kinderzimmer bis ins Stadion, ein Charakter-Editor und ein Shop für Outfits, Gitarren und Effektpedale.
 - **Echt spielen:** Die Note auf der echten Gitarre spielen, und Suona hört zu.
 - **Rhythmus, Tabs und eine eigene Band.**
 
 ## Kinderschutz und Datenschutz
 
-- Suona speichert pro Profil nur den Spitznamen, die Figur, die Münzen, die Übungstage und den Lernstand. Es gibt keinen echten Namen, kein Alter, keine Fotos und kein Konto.
+- Suona speichert pro Profil nur den Spitznamen, die Figur und ihr Aussehen, die Münzen, im Spiel gekaufte Teile, die Sterne im Abenteuer, die Übungstage und den Lernstand. Es gibt keinen echten Namen, kein Alter, keine Fotos und kein Konto.
 - Alles bleibt auf dem Gerät. Suona schickt nichts weg und nutzt keine Analyse- oder Werbedienste.
 - Internet braucht Suona nur für „Nach Updates suchen“, und auch das nur auf Knopfdruck im Lehrerbereich.
 - Das Mikrofon ist nur im Mikrofon-Test an (später auch in „Echt spielen“). Der Ton wird ausgewertet und sofort verworfen, nie aufgenommen oder gespeichert.
@@ -71,6 +74,8 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 |---|---|
 | Lehrerbereich öffnen | Schloss oben rechts auf dem Startbildschirm, dann die Rechenaufgabe lösen |
 | Profil löschen oder umbenennen | Lehrerbereich → *Profile* → ⋮ |
+| Aussehen ändern | Auf der Startseite die Figur antippen oder „Aussehen“ |
+| Pedale im Abenteuer | Oben rechts neben dem Publikums-Balken antippen |
 | Vorzeichen antippen | Zuerst ♯ oder ♭ wählen, dann den Ton |
 | Mit Tastatur spielen | Tasten c d e f g a h, `#` für ♯, `-` für ♭ |
 | Eigene Arcade-Vorlage | Arcade → *Als Vorlage speichern (Lehrperson)* |
