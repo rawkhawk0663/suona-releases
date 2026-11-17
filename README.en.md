@@ -41,17 +41,19 @@ You don't need administrator rights to install it. Uninstall it like any other a
 - **Fretboard** ("Where is the note?"): see the note and tap its place on the fretboard, or see a dot on the fretboard and tap its name. After a mistake, Suona shows every right place.
 - **Arcade:** endless play until three picks are gone. Five ways to play: note name, where is it?, which note?, write the note (tap a note onto the staff) and mixed. Notes come from the child's own curriculum or from chosen strings and frets, and the tempo is adjustable (no timer, relaxed, fast). Each way to play has its own record.
 - **Adventure:** a world map from the bedroom to the stadium with eight stations. Each station brings the next notes from the curriculum and has five levels and a concert. The time per note gets shorter from station to station, and a crowd meter shows how well it's going. How much time there is and how patient the crowd is depends on the level (Mini, Junior, Teen, Pro). A new station opens once the previous one is done and the teacher has unlocked the new notes.
+- **Chords:** recognise shapes on the fretboard, build them yourself (tap the dots) and read them as stacked notes on the staff. First on three strings only (G, B, E), later with four, five and all six strings. Every chord sounds as soon as it’s right. Plus a chord arcade.
+- **Chord tour:** a second adventure by tour bus from the campfire to the grand finale, eight stops with five levels each. At the concert the child plays along with a song, building the right shape bar by bar.
 - **Shop and looks:** coins buy around 70 items: hats and helmets, glasses, necklaces, vests, electric and acoustic guitars, and amps that stand next to the character when it plays electric. Everything can be tried on before buying. Skin, hair, eyes and shirt colours are free to choose.
 - **Sets to collect:** Street, Beach, Flower power, Country, Jazz gala, Heavy metal, Outer space, Pirate, Winter, Magic, Disco and Rock star. Collect every part of a set to earn a badge.
 - **Pedals:** the shield pedal blocks one wrong note, the capo stops the clock and the tuner removes two wrong answers, each once per adventure level.
-- **Badges** for finished stations, full sets, many right notes and days practised in a row.
+- **Badges** for finished stations and chord tour stops, full sets, many right notes and days practised in a row.
 - **Rewards:** coins for every right answer, more coins for many right answers in a row, stars for each round and a count of days practised in a row. A streak shield saves a missed day. Breaks are never punished.
 - **Learns along:** notes a child often mixes up come up more often.
 
 ### For teachers and parents (teacher area)
 - **Teacher area** behind a small maths question: the lock at the top right of the start screen.
-- **Curricula:** the order in which notes are learned. The order from "guitarTALKS" is built in. You can create your own, for example for another guitar method.
-- **For each child:** choose a curriculum, set how far the child has got (this also opens the adventure stations), set the level by age (Mini about 6–8, Junior 9–11, Teen 12–15, Pro 16 and up) and see which notes are already secure, separately for reading notes and for the fretboard.
+- **Curricula:** the order in which notes are learned. Plus chord curricula: which chords come in which order and on how many strings. The “Chord tour” is built in (C, G, G7 · Em, F · Am · D, Dm, D7 on three strings, then with more strings up to B7). The order from "guitarTALKS" is built in. You can create your own, for example for another guitar method.
+- **For each child:** choose a curriculum and a chord curriculum, set how far the child has got (this also opens the adventure stations and the chord tour stops), set the level by age (Mini about 6–8, Junior 9–11, Teen 12–15, Pro 16 and up) and see which notes are already secure, separately for reading notes, the fretboard and chords.
 - **Arcade presets,** for example "1st position", "G string only" or your own, like "Homework Mia".
 - **Settings:** note names in German (H, B, Fis) or international (B, B♭, F♯), sharps, flats or both, which string is at the top of the fretboard, sound on or off, language.
 - **Mic test:** checks whether the device hears the guitar well. This is the basis for the coming "Play for real" mode.
@@ -62,7 +64,7 @@ You don't need administrator rights to install it. Uninstall it like any other a
 
 ## Child safety and privacy
 
-- For each profile, Suona only stores the nickname, the character and its looks, the level (not the age), coins, items bought in the game, adventure stars, practice days and progress. There is no real name, no age, no photos and no account.
+- For each profile, Suona only stores the nickname, the character and its looks, the level (not the age), coins, items bought in the game, adventure and chord tour stars, practice days and progress. There is no real name, no age, no photos and no account.
 - Everything stays on the device. Suona sends nothing anywhere and uses no analytics or advertising services.
 - Suona only needs the internet for "Check for updates", and only when that button is pressed in the teacher area.
 - The microphone is only on in the mic test (and later in "Play for real"). The sound is analysed and discarded straight away, never recorded or stored.
@@ -79,6 +81,8 @@ You don't need administrator rights to install it. Uninstall it like any other a
 | Pedals in the adventure | Tap them at the top right next to the crowd meter |
 | Change a child's level | Teacher area → *Profiles* → *Level* |
 | Wear a whole set | Shop → *Sets* → *Wear my parts* |
+| Build a chord shape | Tap the dots, tap again to remove; on the left “x” = don’t play the string; then *Done* |
+| Unlock chords for a child | Teacher area → *Profiles* → Chords → *Currently at* |
 | Sharps and flats | Pick ♯ or ♭ first, then the note |
 | Play with a keyboard | Keys c d e f g a h, `#` for ♯, `-` for ♭ |
 | Your own arcade preset | Arcade → *Save as preset (teacher)* |
