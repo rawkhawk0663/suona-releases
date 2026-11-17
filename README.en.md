@@ -48,18 +48,19 @@ You don't need administrator rights to install it. Uninstall it like any other a
 - **Pedals:** the shield pedal blocks one wrong note, the capo stops the clock and the tuner removes two wrong answers, each once per adventure level.
 - **Badges** for finished stations and chord tour stops, full sets, many right notes and days practised in a row.
 - **Rewards:** coins for every right answer, more coins for many right answers in a row, stars for each round and a count of days practised in a row. A streak shield saves a missed day. Breaks are never punished.
+- **Answer with your guitar:** while practising, tap the “Guitar” switch at the top. The child then plays the note on a real guitar instead of tapping its name, and Suona listens through the microphone. Suona also hears the octave and says when a note was an octave too high or too low. This works in "Read notes" and "Where is the note?", in the arcade and in the adventure.
 - **Learns along:** notes a child often mixes up come up more often.
 
 ### For teachers and parents (teacher area)
 - **Teacher area** behind a small maths question: the lock at the top right of the start screen.
-- **Curricula:** the order in which notes are learned. Plus chord curricula: which chords come in which order and on how many strings. The “Chord tour” is built in (C, G, G7 · Em, F · Am · D, Dm, D7 on three strings, then with more strings up to B7). The order from "guitarTALKS" is built in. You can create your own, for example for another guitar method.
+- **Curricula:** the order in which notes are learned. The order from "guitarTALKS" is built in. Plus chord curricula: which chords come in which order and on how many strings. The “Chord tour” is built in (C, G, G7 · Em, F · Am · D, Dm, D7 on three strings, then with more strings up to B7). You can create your own, for example for another guitar method.
 - **For each child:** choose a curriculum and a chord curriculum, set how far the child has got (this also opens the adventure stations and the chord tour stops), set the level by age (Mini about 6–8, Junior 9–11, Teen 12–15, Pro 16 and up) and see which notes are already secure, separately for reading notes, the fretboard and chords.
 - **Arcade presets,** for example "1st position", "G string only" or your own, like "Homework Mia".
 - **Settings:** note names in German (H, B, Fis) or international (B, B♭, F♯), sharps, flats or both, which string is at the top of the fretboard, sound on or off, language.
-- **Mic test:** checks whether the device hears the guitar well. This is the basis for the coming "Play for real" mode.
+- **Mic test:** checks whether the device hears the guitar well.
 
 ### Coming soon
-- **Play for real:** play the note on a real guitar, and Suona listens.
+- A **tuner** in the app and **playing chords on the guitar** (Suona hears whether the whole chord is right).
 - **Rhythm, tabs and a band of your own.**
 
 ## Child safety and privacy
@@ -67,7 +68,7 @@ You don't need administrator rights to install it. Uninstall it like any other a
 - For each profile, Suona only stores the nickname, the character and its looks, the level (not the age), coins, items bought in the game, adventure and chord tour stars, practice days and progress. There is no real name, no age, no photos and no account.
 - Everything stays on the device. Suona sends nothing anywhere and uses no analytics or advertising services.
 - Suona only needs the internet for "Check for updates", and only when that button is pressed in the teacher area.
-- The microphone is only on in the mic test (and later in "Play for real"). The sound is analysed and discarded straight away, never recorded or stored.
+- The microphone is only on when the “Guitar” switch is on while practising (a red microphone lights up) and in the mic test. The sound is analysed and discarded straight away, never recorded or stored.
 - There are no external links and no chat.
 - The app includes a privacy notice for children and one for parents (teacher area → *About Suona* → *Privacy*).
 
@@ -78,6 +79,7 @@ You don't need administrator rights to install it. Uninstall it like any other a
 | Open the teacher area | Lock at the top right of the start screen, then solve the maths question |
 | Delete or rename a profile | Teacher area → *Profiles* → ⋮ |
 | Change looks | Tap the character on the home screen, or “Looks” |
+| Answer with your guitar | While practising, tap “Guitar” at the top right; tap again to switch it off |
 | Pedals in the adventure | Tap them at the top right next to the crowd meter |
 | Change a child's level | Teacher area → *Profiles* → *Level* |
 | Wear a whole set | Shop → *Sets* → *Wear my parts* |

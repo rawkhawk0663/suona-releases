@@ -48,18 +48,19 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - **Pedale:** Das Schild-Pedal wehrt einen falschen Ton ab, der Kapodaster hält die Zeit an, und das Stimmgerät streicht zwei falsche Antworten weg, je einmal pro Abenteuer-Level.
 - **Abzeichen** für geschaffte Stationen und Etappen der Akkord-Tour, volle Sets, viele richtige Töne und Übungstage in Folge.
 - **Belohnungen:** Münzen für jede richtige Antwort, mehr Münzen bei vielen richtigen in Folge, Sterne für jede Runde und eine Zählung der Übungstage in Folge. Ein Streak-Schutz rettet einen verpassten Tag. Pausen werden nie bestraft.
+- **Mit der Gitarre antworten:** Beim Üben den Schalter „Gitarre“ oben antippen. Dann spielt das Kind die Note auf der echten Gitarre, statt den Namen zu tippen, und Suona hört über das Mikrofon zu. Suona erkennt auch die Oktave und sagt, wenn der Ton eine Oktave zu hoch oder zu tief war. Das geht bei „Noten lesen“ und „Wo liegt die Note?“, im Arcade und im Abenteuer.
 - **Lernt mit:** Töne, die ein Kind oft verwechselt, kommen öfter dran.
 
 ### Für Lehrpersonen und Eltern (Lehrerbereich)
 - **Lehrerbereich** hinter einer kleinen Rechenaufgabe: das Schloss oben rechts auf dem Startbildschirm.
-- **Lehrpläne:** Die Reihenfolge, in der die Töne gelernt werden. Dazu Akkord-Lehrpläne: welche Akkorde nacheinander kommen und auf wie vielen Saiten. Eingebaut ist die „Akkord-Tour“ (C, G, G7 · Em, F · Am · D, Dm, D7 auf drei Saiten, danach mit mehr Saiten bis H7). Eingebaut ist die Reihenfolge aus „guitarTALKS“. Eigene Lehrpläne, etwa nach einer anderen Gitarrenschule, legst du selbst an.
+- **Lehrpläne:** Die Reihenfolge, in der die Töne gelernt werden. Eingebaut ist die Reihenfolge aus „guitarTALKS“. Dazu Akkord-Lehrpläne: welche Akkorde nacheinander kommen und auf wie vielen Saiten. Eingebaut ist die „Akkord-Tour“ (C, G, G7 · Em, F · Am · D, Dm, D7 auf drei Saiten, danach mit mehr Saiten bis H7). Eigene Lehrpläne, etwa nach einer anderen Gitarrenschule, legst du selbst an.
 - **Pro Kind:** Lehrplan und Akkord-Lehrplan wählen, festlegen, wie weit das Kind ist (damit öffnen sich auch die Stationen im Abenteuer und die Etappen der Akkord-Tour), die Stufe nach Alter einstellen (Mini etwa 6–8, Junior 9–11, Teen 12–15, Profi ab 16) und sehen, welche Töne schon sitzen, getrennt für Notenlesen, Griffbrett und Akkorde.
 - **Arcade-Vorlagen,** zum Beispiel „1. Lage“, „Nur g-Saite“ oder eigene wie „Hausaufgabe Mia“.
 - **Einstellungen:** Notennamen deutsch (H, B, Fis) oder international (B, B♭, F♯), Vorzeichen als ♯, ♭ oder beides, welche Saite auf dem Griffbrett oben liegt, Ton an oder aus, Sprache.
-- **Mikrofon-Test:** prüft, ob das Gerät die Gitarre gut hört. Das ist die Grundlage für den kommenden Modus „Echt spielen“.
+- **Mikrofon-Test:** prüft, ob das Gerät die Gitarre gut hört.
 
 ### Kommt bald
-- **Echt spielen:** Die Note auf der echten Gitarre spielen, und Suona hört zu.
+- **Stimmgerät** in der App und **Akkorde mit der Gitarre spielen** (Suona hört, ob der ganze Akkord stimmt).
 - **Rhythmus, Tabs und eine eigene Band.**
 
 ## Kinderschutz und Datenschutz
@@ -67,7 +68,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 - Suona speichert pro Profil nur den Spitznamen, die Figur und ihr Aussehen, die Stufe (nicht das Alter), die Münzen, im Spiel gekaufte Teile, die Sterne im Abenteuer und in der Akkord-Tour, die Übungstage und den Lernstand. Es gibt keinen echten Namen, kein Alter, keine Fotos und kein Konto.
 - Alles bleibt auf dem Gerät. Suona schickt nichts weg und nutzt keine Analyse- oder Werbedienste.
 - Internet braucht Suona nur für „Nach Updates suchen“, und auch das nur auf Knopfdruck im Lehrerbereich.
-- Das Mikrofon ist nur im Mikrofon-Test an (später auch in „Echt spielen“). Der Ton wird ausgewertet und sofort verworfen, nie aufgenommen oder gespeichert.
+- Das Mikrofon ist nur an, wenn beim Üben der Schalter „Gitarre“ eingeschaltet ist (dann leuchtet ein rotes Mikrofon), und im Mikrofon-Test. Der Ton wird ausgewertet und sofort verworfen, nie aufgenommen oder gespeichert.
 - Es gibt keine Links nach aussen und keinen Chat.
 - In der App gibt es eine Datenschutz-Erklärung für Kinder und eine für Eltern (Lehrerbereich → *Über Suona* → *Datenschutz*).
 
@@ -78,6 +79,7 @@ Für die Installation brauchst du keine Administrator-Rechte. Deinstallieren geh
 | Lehrerbereich öffnen | Schloss oben rechts auf dem Startbildschirm, dann die Rechenaufgabe lösen |
 | Profil löschen oder umbenennen | Lehrerbereich → *Profile* → ⋮ |
 | Aussehen ändern | Auf der Startseite die Figur antippen oder „Aussehen“ |
+| Mit der Gitarre antworten | Beim Üben oben rechts auf „Gitarre“ tippen, nochmals tippen schaltet es aus |
 | Pedale im Abenteuer | Oben rechts neben dem Publikums-Balken antippen |
 | Stufe eines Kindes ändern | Lehrerbereich → *Profile* → *Stufe* |
 | Ganzes Set anziehen | Shop → *Sets* → *Meine Teile anziehen* |
